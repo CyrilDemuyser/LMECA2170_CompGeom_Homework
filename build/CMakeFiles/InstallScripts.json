@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/cmake_install.cmake",
+		"C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/cmake_install.cmake",
+		"C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src/cmake_install.cmake",
+		"C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/exec/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

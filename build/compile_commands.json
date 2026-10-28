@@ -1,0 +1,254 @@
+[
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -Dgeonum_EXPORTS @CMakeFiles/geonum.dir/includes_C.rsp -O2 -g -DNDEBUG -std=gnu11 -Wall -Wextra -pedantic -Wshadow -o CMakeFiles\\geonum.dir\\src\\He_st.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\code\\src\\He_st.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/code/src/He_st.c",
+  "output": "CMakeFiles/geonum.dir/src/He_st.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -Dgeonum_EXPORTS @CMakeFiles/geonum.dir/includes_C.rsp -O2 -g -DNDEBUG -std=gnu11 -Wall -Wextra -pedantic -Wshadow -o CMakeFiles\\geonum.dir\\src\\student_mesh.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\code\\src\\student_mesh.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/code/src/student_mesh.c",
+  "output": "CMakeFiles/geonum.dir/src/student_mesh.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -Dgeonum_EXPORTS @CMakeFiles/geonum.dir/includes_C.rsp -O2 -g -DNDEBUG -std=gnu11 -Wall -Wextra -pedantic -Wshadow -o CMakeFiles\\geonum.dir\\src\\student_geometry.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\code\\src\\student_geometry.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/code/src/student_geometry.c",
+  "output": "CMakeFiles/geonum.dir/src/student_geometry.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -Dgeonum_EXPORTS -Drandom=rand @CMakeFiles/geonum.dir/includes_C.rsp -O2 -g -DNDEBUG -std=gnu11 -Wall -Wextra -pedantic -Wshadow -O2 -fno-fast-math -ffp-contract=off -o CMakeFiles\\geonum.dir\\src\\predicates.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\code\\src\\predicates.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/code/src/predicates.c",
+  "output": "CMakeFiles/geonum.dir/src/predicates.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -Dgeonum_EXPORTS @CMakeFiles/geonum.dir/includes_C.rsp -O2 -g -DNDEBUG -std=gnu11 -Wall -Wextra -pedantic -Wshadow -o CMakeFiles\\geonum.dir\\src\\student_hilbert.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\code\\src\\student_hilbert.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/code/src/student_hilbert.c",
+  "output": "CMakeFiles/geonum.dir/src/student_hilbert.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -Dgeonum_EXPORTS @CMakeFiles/geonum.dir/includes_C.rsp -O2 -g -DNDEBUG -std=gnu11 -Wall -Wextra -pedantic -Wshadow -o CMakeFiles\\geonum.dir\\src\\student_delaunay.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\code\\src\\student_delaunay.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/code/src/student_delaunay.c",
+  "output": "CMakeFiles/geonum.dir/src/student_delaunay.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -Dgeonum_EXPORTS @CMakeFiles/geonum.dir/includes_C.rsp -O2 -g -DNDEBUG -std=gnu11 -Wall -Wextra -pedantic -Wshadow -o CMakeFiles\\geonum.dir\\src\\student_alpha.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\code\\src\\student_alpha.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/code/src/student_alpha.c",
+  "output": "CMakeFiles/geonum.dir/src/student_alpha.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -Dgeonum_EXPORTS @CMakeFiles/geonum.dir/includes_C.rsp -O2 -g -DNDEBUG -std=gnu11 -Wall -Wextra -pedantic -Wshadow -o CMakeFiles\\geonum.dir\\src\\student_refinement.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\code\\src\\student_refinement.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/code/src/student_refinement.c",
+  "output": "CMakeFiles/geonum.dir/src/student_refinement.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -Dgeonum_EXPORTS @CMakeFiles/geonum.dir/includes_C.rsp -O2 -g -DNDEBUG -std=gnu11 -Wall -Wextra -pedantic -Wshadow -o CMakeFiles\\geonum.dir\\src\\student_triangulation.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\code\\src\\student_triangulation.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/code/src/student_triangulation.c",
+  "output": "CMakeFiles/geonum.dir/src/student_triangulation.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -Dgeonum_EXPORTS @CMakeFiles/geonum.dir/includes_C.rsp -O2 -g -DNDEBUG -std=gnu11 -Wall -Wextra -pedantic -Wshadow -o CMakeFiles\\geonum.dir\\src\\student_spatial_search.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\code\\src\\student_spatial_search.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/code/src/student_spatial_search.c",
+  "output": "CMakeFiles/geonum.dir/src/student_spatial_search.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -Dgeonum_EXPORTS @CMakeFiles/geonum.dir/includes_C.rsp -O2 -g -DNDEBUG -std=gnu11 -Wall -Wextra -pedantic -Wshadow -o CMakeFiles\\geonum.dir\\src\\HeObject.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\code\\src\\HeObject.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/code/src/HeObject.c",
+  "output": "CMakeFiles/geonum.dir/src/HeObject.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -Dgeonum_EXPORTS @CMakeFiles/geonum.dir/includes_C.rsp -O2 -g -DNDEBUG -std=gnu11 -Wall -Wextra -pedantic -Wshadow -o CMakeFiles\\geonum.dir\\src\\HeOperations.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\code\\src\\HeOperations.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/code/src/HeOperations.c",
+  "output": "CMakeFiles/geonum.dir/src/HeOperations.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -Dgeonum_EXPORTS @CMakeFiles/geonum.dir/includes_C.rsp -O2 -g -DNDEBUG -std=gnu11 -Wall -Wextra -pedantic -Wshadow -o CMakeFiles\\geonum.dir\\src\\HeGetters.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\code\\src\\HeGetters.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/code/src/HeGetters.c",
+  "output": "CMakeFiles/geonum.dir/src/HeGetters.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -Dgeonum_EXPORTS @CMakeFiles/geonum.dir/includes_C.rsp -O2 -g -DNDEBUG -std=gnu11 -Wall -Wextra -pedantic -Wshadow -o CMakeFiles\\geonum.dir\\src\\project_display.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\code\\src\\project_display.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/code/src/project_display.c",
+  "output": "CMakeFiles/geonum.dir/src/project_display.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -Dgeonum_EXPORTS @CMakeFiles/geonum.dir/includes_C.rsp -O2 -g -DNDEBUG -std=gnu11 -Wall -Wextra -pedantic -Wshadow -o CMakeFiles\\geonum.dir\\src\\project_solver.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\code\\src\\project_solver.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/code/src/project_solver.c",
+  "output": "CMakeFiles/geonum.dir/src/project_solver.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -O2 -g -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\context.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\build\\_deps\\glfw-src\\src\\context.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-src/src/context.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/context.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -O2 -g -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\init.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\build\\_deps\\glfw-src\\src\\init.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-src/src/init.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/init.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -O2 -g -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\input.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\build\\_deps\\glfw-src\\src\\input.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-src/src/input.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/input.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -O2 -g -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\monitor.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\build\\_deps\\glfw-src\\src\\monitor.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-src/src/monitor.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/monitor.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -O2 -g -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\platform.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\build\\_deps\\glfw-src\\src\\platform.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-src/src/platform.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/platform.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -O2 -g -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\vulkan.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\build\\_deps\\glfw-src\\src\\vulkan.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-src/src/vulkan.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/vulkan.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -O2 -g -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\window.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\build\\_deps\\glfw-src\\src\\window.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-src/src/window.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/window.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -O2 -g -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\egl_context.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\build\\_deps\\glfw-src\\src\\egl_context.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-src/src/egl_context.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/egl_context.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -O2 -g -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\osmesa_context.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\build\\_deps\\glfw-src\\src\\osmesa_context.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-src/src/osmesa_context.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/osmesa_context.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -O2 -g -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_init.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\build\\_deps\\glfw-src\\src\\null_init.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-src/src/null_init.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/null_init.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -O2 -g -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_monitor.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\build\\_deps\\glfw-src\\src\\null_monitor.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-src/src/null_monitor.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/null_monitor.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -O2 -g -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_window.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\build\\_deps\\glfw-src\\src\\null_window.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-src/src/null_window.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/null_window.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -O2 -g -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_joystick.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\build\\_deps\\glfw-src\\src\\null_joystick.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-src/src/null_joystick.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/null_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -O2 -g -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_module.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\build\\_deps\\glfw-src\\src\\win32_module.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-src/src/win32_module.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/win32_module.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -O2 -g -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_time.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\build\\_deps\\glfw-src\\src\\win32_time.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-src/src/win32_time.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/win32_time.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -O2 -g -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_thread.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\build\\_deps\\glfw-src\\src\\win32_thread.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-src/src/win32_thread.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/win32_thread.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -O2 -g -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_init.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\build\\_deps\\glfw-src\\src\\win32_init.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-src/src/win32_init.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/win32_init.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -O2 -g -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_joystick.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\build\\_deps\\glfw-src\\src\\win32_joystick.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-src/src/win32_joystick.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/win32_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -O2 -g -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_monitor.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\build\\_deps\\glfw-src\\src\\win32_monitor.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-src/src/win32_monitor.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/win32_monitor.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -O2 -g -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_window.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\build\\_deps\\glfw-src\\src\\win32_window.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-src/src/win32_window.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/win32_window.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -O2 -g -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\wgl_context.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\build\\_deps\\glfw-src\\src\\wgl_context.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-src/src/wgl_context.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/wgl_context.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/exec",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/0_example_viewer.dir/includes_C.rsp -O2 -g -DNDEBUG -std=gnu11 -Wall -Wextra -pedantic -Wshadow -o CMakeFiles\\0_example_viewer.dir\\0_example_viewer.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\code\\exec\\0_example_viewer.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/code/exec/0_example_viewer.c",
+  "output": "exec/CMakeFiles/0_example_viewer.dir/0_example_viewer.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/exec",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/1_triangulation.dir/includes_C.rsp -O2 -g -DNDEBUG -std=gnu11 -Wall -Wextra -pedantic -Wshadow -o CMakeFiles\\1_triangulation.dir\\1_triangulation.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\code\\exec\\1_triangulation.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/code/exec/1_triangulation.c",
+  "output": "exec/CMakeFiles/1_triangulation.dir/1_triangulation.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/exec",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/2_ashape_adaptation.dir/includes_C.rsp -O2 -g -DNDEBUG -std=gnu11 -Wall -Wextra -pedantic -Wshadow -o CMakeFiles\\2_ashape_adaptation.dir\\2_ashape_adaptation.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\code\\exec\\2_ashape_adaptation.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/code/exec/2_ashape_adaptation.c",
+  "output": "exec/CMakeFiles/2_ashape_adaptation.dir/2_ashape_adaptation.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/exec",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/3_1_distance_queries.dir/includes_C.rsp -O2 -g -DNDEBUG -std=gnu11 -Wall -Wextra -pedantic -Wshadow -o CMakeFiles\\3_1_distance_queries.dir\\3_1_distance_queries.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\code\\exec\\3_1_distance_queries.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/code/exec/3_1_distance_queries.c",
+  "output": "exec/CMakeFiles/3_1_distance_queries.dir/3_1_distance_queries.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/exec",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/3_2_intersection_queries.dir/includes_C.rsp -O2 -g -DNDEBUG -std=gnu11 -Wall -Wextra -pedantic -Wshadow -o CMakeFiles\\3_2_intersection_queries.dir\\3_2_intersection_queries.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\code\\exec\\3_2_intersection_queries.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/code/exec/3_2_intersection_queries.c",
+  "output": "exec/CMakeFiles/3_2_intersection_queries.dir/3_2_intersection_queries.c.obj"
+},
+{
+  "directory": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/exec",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/4_complete_project.dir/includes_C.rsp -O2 -g -DNDEBUG -std=gnu11 -Wall -Wextra -pedantic -Wshadow -o CMakeFiles\\4_complete_project.dir\\4_complete_project.c.obj -c C:\\Users\\cyril\\Desktop\\master2\\computgeom\\lmeca2170-project-main\\code\\exec\\4_complete_project.c",
+  "file": "C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/code/exec/4_complete_project.c",
+  "output": "exec/CMakeFiles/4_complete_project.dir/4_complete_project.c.obj"
+}
+]

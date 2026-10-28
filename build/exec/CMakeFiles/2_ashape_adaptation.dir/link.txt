@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\2_ashape_adaptation.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\2_ashape_adaptation.dir/objects.a @CMakeFiles\2_ashape_adaptation.dir\objects1.rsp
+C:\msys64\ucrt64\bin\gcc.exe -O2 -g -DNDEBUG -Wl,--whole-archive CMakeFiles\2_ashape_adaptation.dir/objects.a -Wl,--no-whole-archive -o 2_ashape_adaptation.exe -Wl,--out-implib,lib2_ashape_adaptation.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\2_ashape_adaptation.dir\linkLibs.rsp

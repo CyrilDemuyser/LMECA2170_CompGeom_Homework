@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/geonum.dir/src/HeGetters.c.obj"
+  "CMakeFiles/geonum.dir/src/HeGetters.c.obj.d"
+  "CMakeFiles/geonum.dir/src/HeObject.c.obj"
+  "CMakeFiles/geonum.dir/src/HeObject.c.obj.d"
+  "CMakeFiles/geonum.dir/src/HeOperations.c.obj"
+  "CMakeFiles/geonum.dir/src/HeOperations.c.obj.d"
+  "CMakeFiles/geonum.dir/src/He_st.c.obj"
+  "CMakeFiles/geonum.dir/src/He_st.c.obj.d"
+  "CMakeFiles/geonum.dir/src/predicates.c.obj"
+  "CMakeFiles/geonum.dir/src/predicates.c.obj.d"
+  "CMakeFiles/geonum.dir/src/project_display.c.obj"
+  "CMakeFiles/geonum.dir/src/project_display.c.obj.d"
+  "CMakeFiles/geonum.dir/src/project_solver.c.obj"
+  "CMakeFiles/geonum.dir/src/project_solver.c.obj.d"
+  "CMakeFiles/geonum.dir/src/student_alpha.c.obj"
+  "CMakeFiles/geonum.dir/src/student_alpha.c.obj.d"
+  "CMakeFiles/geonum.dir/src/student_delaunay.c.obj"
+  "CMakeFiles/geonum.dir/src/student_delaunay.c.obj.d"
+  "CMakeFiles/geonum.dir/src/student_geometry.c.obj"
+  "CMakeFiles/geonum.dir/src/student_geometry.c.obj.d"
+  "CMakeFiles/geonum.dir/src/student_hilbert.c.obj"
+  "CMakeFiles/geonum.dir/src/student_hilbert.c.obj.d"
+  "CMakeFiles/geonum.dir/src/student_mesh.c.obj"
+  "CMakeFiles/geonum.dir/src/student_mesh.c.obj.d"
+  "CMakeFiles/geonum.dir/src/student_refinement.c.obj"
+  "CMakeFiles/geonum.dir/src/student_refinement.c.obj.d"
+  "CMakeFiles/geonum.dir/src/student_spatial_search.c.obj"
+  "CMakeFiles/geonum.dir/src/student_spatial_search.c.obj.d"
+  "CMakeFiles/geonum.dir/src/student_triangulation.c.obj"
+  "CMakeFiles/geonum.dir/src/student_triangulation.c.obj.d"
+  "libgeonum.dll"
+  "libgeonum.dll.a"
+  "libgeonum.dll.manifest"
+  "libgeonum.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/geonum.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

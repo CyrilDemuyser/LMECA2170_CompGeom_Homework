@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\3_2_intersection_queries.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\3_2_intersection_queries.dir/objects.a @CMakeFiles\3_2_intersection_queries.dir\objects1.rsp
+C:\msys64\ucrt64\bin\gcc.exe -O2 -g -DNDEBUG -Wl,--whole-archive CMakeFiles\3_2_intersection_queries.dir/objects.a -Wl,--no-whole-archive -o 3_2_intersection_queries.exe -Wl,--out-implib,lib3_2_intersection_queries.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\3_2_intersection_queries.dir\linkLibs.rsp

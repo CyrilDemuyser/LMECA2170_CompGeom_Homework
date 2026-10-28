@@ -1,0 +1,17 @@
+C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/CMakeFiles/geonum.dir
+C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/CMakeFiles/edit_cache.dir
+C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/CMakeFiles/rebuild_cache.dir
+C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/CMakeFiles/edit_cache.dir
+C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/CMakeFiles/rebuild_cache.dir
+C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src/CMakeFiles/glfw.dir
+C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src/CMakeFiles/update_mappings.dir
+C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src/CMakeFiles/edit_cache.dir
+C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/_deps/glfw-build/src/CMakeFiles/rebuild_cache.dir
+C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/exec/CMakeFiles/0_example_viewer.dir
+C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/exec/CMakeFiles/1_triangulation.dir
+C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/exec/CMakeFiles/2_ashape_adaptation.dir
+C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/exec/CMakeFiles/3_1_distance_queries.dir
+C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/exec/CMakeFiles/3_2_intersection_queries.dir
+C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/exec/CMakeFiles/4_complete_project.dir
+C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/exec/CMakeFiles/edit_cache.dir
+C:/Users/cyril/Desktop/master2/computgeom/lmeca2170-project-main/build/exec/CMakeFiles/rebuild_cache.dir
